@@ -8,8 +8,8 @@ body {
 }
 
 #container {
-    width:400px;
-    height: 400px;
+    width: 600px;
+    height: 600px;
 }
 .grid-row {
     display: flex;
@@ -20,4 +20,8 @@ body {
 .grid-item {
     border: 1px black solid;
 
+}
+
+div.hovered {
+    background-color: red;
 }
